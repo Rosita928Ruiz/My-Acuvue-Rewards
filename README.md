@@ -30,6 +30,6 @@ HTML: For structuring the app.
 Node.js (if applicable): For backend processing and API integration.
 
 Author
-Name: Your A/C Name Email: Your A/C Email ID Website: My Acuvue Rewards
+Name: Your A/C Name Email: Your A/C Email ID Website: [My Acuvue Rewards](https://www.myacuvuerewards.org)
 
 With extensive experience in modern web development, the author specializes in creating efficient and scalable solutions. Passionate about coding and technology, they value collaboration and innovation, making complex concepts simple for all users.
